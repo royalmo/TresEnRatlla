@@ -2,7 +2,7 @@
 
 [This repository is only available in catalan, but you can ask specific translations]
 
-### Contexte històric
+### Context històric
 Aquest projecte que vaig fer al 2016 és simplement el joc del tres en ratlla, fet per python.
 Consta de dos modes de joc: un contra la màquina amb intel·ligència artificial o un contra una altra persona.
 Guarda les dades de cada partida en un fitxer .txt que cal descarregar per tal de tenir una bona experiència en la partida.
